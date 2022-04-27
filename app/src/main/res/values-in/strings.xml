@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AplikasiBeritaSederhana</string>
+    <string name="add_news">Tambah Berita</string>
+    <string name="news_title">Judul Berita</string>
+    <string name="news_content">Isi Berita</string>
+    <string name="save">Simpan</string>
+</resources>

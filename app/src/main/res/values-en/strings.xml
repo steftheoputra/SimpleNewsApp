@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleNewsApp</string>
+    <string name="add_news">Add News</string>
+    <string name="news_title">News Title</string>
+    <string name="news_content">News Content</string>
+    <string name="save">Save</string>
+</resources>
